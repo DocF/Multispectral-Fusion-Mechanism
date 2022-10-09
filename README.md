@@ -26,7 +26,7 @@ If you are interested this repo for your research, welcome to cite our paper:
 ## Feature-based fusion
 ### 1. Cross-modality Interactive Attention
 #### 1.1 Paper
-[Cross-modality interactive attention network for multispectral pedestrian detection](https://www.sciencedirect.com/science/article/abs/pii/S1566253518304111)
+Cross-modality interactive attention network for multispectral pedestrian detection. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1566253518304111)
 #### 1.2 Architecture
 
 
