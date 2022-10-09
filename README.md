@@ -28,5 +28,7 @@ If you are interested this repo for your research, welcome to cite our paper:
 #### 1.1 Paper
 Cross-modality interactive attention network for multispectral pedestrian detection. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1566253518304111)
 #### 1.2 Architecture
-
+<div align="left">
+<img src="https://github.com/DocF/Multispectral-Fusion-Mechanism/blob/main/fig/cia.png" width="500">
+</div>
 
